@@ -6,11 +6,11 @@
 
 Consumer_API_Key ="KC1ssaTGFimytjI8CO9NQ72q7"
 
-Consumer_API_Secret="X1oNWVg2oYvC7YEWR8REHkL8Qupg6Mm6jr7uoBT4j1nYL6V7mr"
+Consumer_API_Secret="X1oNWVg2oYvC7YEWR8REHkL8Qupg6Mm6jr7uoBT4j1nYL6V7mrrev"
 
 Access_Token ="751247338014859264-Sw0tsXnVFIodHP78JwcmI1If2q880WE"
 
-Access_Token_Secret ="cLKsEXAGhMvpXTsUIKBRZvo3oBDuTUBC98UMX0bgD99vG"
+Access_Token_Secret ="cLKsEXAGhMvpXTsUIKBRZvo3oBDuTUBC98UMX0bgD99vGanth"
 
 #package contains connections to connect to twitter account 
 library(twitteR)
